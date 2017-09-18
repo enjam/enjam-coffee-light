@@ -1,0 +1,30 @@
+.App {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.LightBox {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  color: white;
+}
+
+.LightsRow {
+  display: flex;
+  justify-content: space-between;
+}
+
+.LightsRow > * {
+  align-self: center;
+}
+
+.MiddleRow {
+  padding-top: 10px;
+}
+
+.TableRow {
+  padding-top: 40px;
+}

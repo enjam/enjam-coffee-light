@@ -1,0 +1,12 @@
+.Lights {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.Light {
+  mix-blend-mode: screen;
+  border-radius: 100%;
+  width: 2px;
+  height: 2px;
+  margin: 2px;
+}

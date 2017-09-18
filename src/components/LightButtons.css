@@ -1,0 +1,15 @@
+.LightButtons {
+  padding-top: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.LightButton {
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+}
+
+.LightButton:hover {
+  cursor: pointer;
+}
